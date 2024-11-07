@@ -1,0 +1,13 @@
+{
+    "name": "1033471161/new",
+    "description": "A simple PHP library for demonstration purposes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cts",
+            "email": "1033471161@qq.com"
+        }
+    ],
+    "require": {}
+}
